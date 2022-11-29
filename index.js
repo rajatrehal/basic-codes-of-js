@@ -25,4 +25,5 @@ console.log(myfav.car);
 //adding new key in object
 myfav['workout'] = "yess"
 console.log(myfav.workout);
+//printing object
 console.log(myfav);
